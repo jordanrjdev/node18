@@ -3,7 +3,9 @@
 In this little post we will be testing a new feature of nodeJS 18.
 Node.js 18 will be promoted to Long Term Support (LTS) in October 2022.
 
-For the Node.js 18 release, I'll highlight some of the new features and ongoing work in the 18 time frame and what our team has been involved with. Exciting new features include:
+For the Node.js 18 release, I'll highlight some of the new features.
+
+Exciting new features include:
 
 - Experimental Fetch
 - Test Runner
